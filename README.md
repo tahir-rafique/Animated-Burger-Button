@@ -11,7 +11,7 @@ I created this fun animated burger button because I was craving a burger once an
 
 When you hover your mouse over the burger icon or click on it, the burger's parts, like the bun, lettuce, and tomato, get separated and move around.
 
-## 🦄 The Power of CSS
+## 😎 The Power of CSS
 
 This project proves that CSS is more powerful than we might think. It's not just for styling web pages. It can bring interactivity and life to our designs. So, never underestimate the magic of CSS. ✨
 
